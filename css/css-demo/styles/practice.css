@@ -1,0 +1,32 @@
+#contact-info p {
+  line-height: .8;
+  font-size: .8em;
+}
+section.job {
+  background-color: #e9e5dc;
+  border-radius: 25px;
+  padding: 5px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+ul.small-text {
+  font-size: .8em;
+}
+/*This is for release 2*/
+
+/* 1. The cascading part means to "pour downward from top to bottom." So when there is a conflict between two css selectors the order of precedence resolves any conflict that will emerge. Whatever selector is most recent will be used.
+An example would be:
+p {color:blue;}
+p {color:red;}
+Text in paragraph will come out red because it is the most recent selector
+*/
+
+/*2. In CSS Selectors selects elements you want to style ie: an "id" or "class" are examples of selectors.
+selector::pseudo-element {
+  color:red;
+}
+selector:pseudo-class {
+  background-color:red;
+}
+*/
+/*3. to select the child tag of another element: take the parent tag and nest the child tag in it. ie: in our code the class is "section"and that is our parent tag. Then our child tag is "UL" ; */
