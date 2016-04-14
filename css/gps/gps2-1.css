@@ -1,0 +1,31 @@
+header {
+  border:5px solid black;
+  text-align: center;
+  padding:1%;
+  background:blue;
+  color:white;
+  font-family:helvetica;
+}
+.column-1{
+  border:5px solid black;
+  display:inline-block;
+  width:48%;
+  vertical-align:text-top;
+  padding:.05%;
+  }
+  h2{
+    text-align:center;
+    font-family:helvetica;
+  }
+.column-2{
+  border:5px solid black;
+  display:inline-block;
+  width:48%;
+  vertical-align:text-top;
+  padding:.05%;
+  }
+  footer {
+    border:3px solid black;
+    color:white;
+    background: rgba(0,0,0,0.5)
+  }
