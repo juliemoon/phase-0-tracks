@@ -1,0 +1,14 @@
+Release 0- using an elevator
+
+-For each floor of the building, open doors to the floor that the elevator button is pressed
+
+Release 1- sharpening pencils
+
+-When the sharpness of the pencil tip is no longer what you’d like it to be:
+-take pencil and insert into electric pencil sharpener.
+	-count to 7 seconds and pull out
+	-see if sharpness is to your liking
+	-if sharpness of the pencil tip is to your liking, 	you are free to use the pencil.
+-If pencil tip is not sharp enough or broken
+	-re-insert pencil into sharpener 
+	-count to 5 seconds then pull out pencil.
