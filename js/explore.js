@@ -12,3 +12,4 @@ function reverse(str){
 }
 
 console.log(reverse("hello"));
+// I don't know why it gives an undefined along with the str
